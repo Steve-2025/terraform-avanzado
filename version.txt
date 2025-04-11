@@ -1,1 +1,2 @@
 v1.0 funcional
+v1.1 con mejoras
